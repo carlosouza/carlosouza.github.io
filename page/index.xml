@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Page-rsses on Carlos Souza&#39;s epiphanies and brain farts</title>
-    <link>http://carlosouza.github.io/page/index.xml</link>
-    <description>Recent content in Page-rsses on Carlos Souza&#39;s epiphanies and brain farts</description>
+    <title>Page-rsses on Carlos Souza&#39;s blog</title>
+    <link>https://carlosouza.github.io/page/index.xml</link>
+    <description>Recent content in Page-rsses on Carlos Souza&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <managingEditor>carlosouza@me.com (Carlos Souza)</managingEditor>
     <webMaster>carlosouza@me.com (Carlos Souza)</webMaster>
-    <atom:link href="http://carlosouza.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://carlosouza.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About me</title>
-      <link>http://carlosouza.github.io/page/about/</link>
+      <link>https://carlosouza.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>carlosouza@me.com (Carlos Souza)</author>
-      <guid>http://carlosouza.github.io/page/about/</guid>
+      <guid>https://carlosouza.github.io/page/about/</guid>
       <description>&lt;p&gt;My name is &amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;I am,
