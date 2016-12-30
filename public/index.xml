@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Souza&#39;s epiphanies and brain farts</title>
+    <link>http://carlosouza.github.io/index.xml</link>
+    <description>Recent content on Carlos Souza&#39;s epiphanies and brain farts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <managingEditor>carlosouza@me.com (Carlos Souza)</managingEditor>
+    <webMaster>carlosouza@me.com (Carlos Souza)</webMaster>
+    <lastBuildDate>Fri, 30 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://carlosouza.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First post!</title>
+      <link>http://carlosouza.github.io/article/first-article/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      <author>carlosouza@me.com (Carlos Souza)</author>
+      <guid>http://carlosouza.github.io/article/first-article/</guid>
+      <description>&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;
+
+&lt;p&gt;The following is a code sample using the &amp;ldquo;highlight&amp;rdquo; shortcode provided in Hugo.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+
+    var num1, num2, sum
+    num1 = prompt(&#34;Enter first number&#34;)
+    num2 = prompt(&#34;Enter second number&#34;)
+    sum = parseInt(num1) + parseInt(num2) // &#34;+&#34; means &#34;add&#34;
+    alert(&#34;Sum = &#34; + sum)  // &#34;+&#34; means combine into a string</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://carlosouza.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>carlosouza@me.com (Carlos Souza)</author>
+      <guid>http://carlosouza.github.io/page/about/</guid>
+      <description>&lt;p&gt;My name is &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;I am,
+I do
+I like&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>http://carlosouza.github.io/tutorial/tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>carlosouza@me.com (Carlos Souza)</author>
+      <guid>http://carlosouza.github.io/tutorial/tutorials/</guid>
+      <description>&lt;p&gt;30 tutorials here&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
