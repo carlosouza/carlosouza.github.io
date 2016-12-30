@@ -4,7 +4,7 @@ languageCode = "en-gb"
 
 [Params]
   logo = "img/avatar-icon.png"
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "Code, tools and toys"
 
 [Author]
   name = "Carlos Souza"
