@@ -1,5 +1,5 @@
 baseurl = "http://carlosouza.github.io/"
-title = "Carlos Souza's epiphanies and brain farts"
+title = "Carlos Souza's blog"
 languageCode = "en-gb"
 
 [Params]
