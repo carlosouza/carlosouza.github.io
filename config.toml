@@ -1,3 +1,28 @@
 baseurl = "http://carlosouza.github.io/"
 title = "Carlos Souza's epiphanies and brain farts"
 languageCode = "en-gb"
+
+[Params]
+  logo = "img/avatar-icon.png"
+  subtitle = "Build a beautiful and simple website in minutes"
+
+[Author]
+  name = "Carlos Souza"
+  email = "carlosouza@me.com"
+  facebook = "carlosouza"
+  github = "carlosouza"
+  twitter = ""
+  linkedin = "/in/carlosouza"
+  stackoverflow = ""
+  soundcloud = ""
+  wikipedia = ""
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 2
